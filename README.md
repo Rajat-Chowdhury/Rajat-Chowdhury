@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm a designer and a frontend web developer based in Kolkata.
+## I'm a UI/UX designer and a frontend web developer based in Kolkata.
 
 - 🌱Currently learning React
 - 📫Lets talk about tech and other stupid stuff : [Facebook](https://www.facebook.com/metalgear141/)
