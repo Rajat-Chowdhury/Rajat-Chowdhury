@@ -3,7 +3,7 @@
 
 - 🌱Currently learning React
 - 📫Lets talk about tech and other stupid stuff : [Facebook](https://www.facebook.com/metalgear141/)
-- ⚡ See my other work at : [Dribbble](https://dribbble.com/_rajat_chowdhury_)
+- ⚡ See my other work at :🏀[Dribbble](https://dribbble.com/_rajat_chowdhury_)
 
 I work using:
 <div>
