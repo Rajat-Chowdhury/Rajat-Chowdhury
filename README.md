@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
+## I'm a designer and a frontend web developer based in Kolkata.
 
-<!--
-**Rajat-Chowdhury/Rajat-Chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱Currently learning React
+- 📫Lets talk about tech and other stupid stuff : [Facebook](https://www.facebook.com/metalgear141/)
+- ⚡ See my other work at : [Dribbble](https://dribbble.com/_rajat_chowdhury_)
 
-Here are some ideas to get you started:
+I work using:
+<div>
+ <img src="https://user-images.githubusercontent.com/43139047/88949223-95f28f00-d2b0-11ea-8547-f3b5dba3bc16.png">
+<img src="https://user-images.githubusercontent.com/43139047/88949298-ad317c80-d2b0-11ea-9ae3-231f830529d3.png">
+<img src="https://user-images.githubusercontent.com/43139047/88949341-bb7f9880-d2b0-11ea-8a95-62374b890458.png">
+<img src="https://user-images.githubusercontent.com/43139047/88949382-c76b5a80-d2b0-11ea-99c5-dc1723044349.png">
+<img src="https://user-images.githubusercontent.com/43139047/88949406-d18d5900-d2b0-11ea-8698-743191bcf82d.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/43139047/88949470-e669ec80-d2b0-11ea-8f8f-3620c8924bb4.png">
+
+</div>
